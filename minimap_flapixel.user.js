@@ -3,8 +3,8 @@
 // @version      1.2.1
 // @description  Pixelcanvas Minimap
 // @author       Alexander
-// @match        https://pixelcanvas.io/*
-// @match        http://pixelcanvas.io/*
+// @match        https://pixelplanet.fun/*
+// @match        http://pixelplanet.fun/*
 // @grant        none
 // ==/UserScript==
 /* 
