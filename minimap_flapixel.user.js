@@ -17,7 +17,7 @@
 
 */
 
-window.baseTepmlateUrl = 'https://raw.githubusercontent.com/ialexanderbrito/flapixel/master';
+window.baseTepmlateUrl = 'https://raw.githubusercontent.com/Rawhate/flapixel/master';
 
 window.addEventListener('load', function () {
     //Regular Expression to get coordinates out of URL
